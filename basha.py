@@ -1,4 +1,4 @@
-print("\t Welcome to Computer WORLD..");
+print("\t Welcome to Computer bhhhh..");
 print("\nlogin(L)\nregister(R)\nedit details(E)\nexit(e)")
 ch=input("Select ypur choice:")
 if ch=='L':
